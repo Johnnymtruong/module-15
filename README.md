@@ -75,9 +75,7 @@ Put each dataset into separate overlays that can be turned on and off independen
 
 Added layer controls to the map.
 
-<img width="1122" alt="image" src="https://user-images.githubusercontent.com/116701851/229044171-7cb6866f-5493-4a3a-a464-6de7c5c349e7.png">
 
-You can find the visualization link on  file:///Users/meeragnair/Desktop/leaflet/Starter_Code%203/Leaflet-/index.html
 
 
 
